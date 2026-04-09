@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "item-wallet",
+      "description": "A lost leather wallet on a wooden table.",
+      "imageUrl": "https://images.unsplash.com/photo-1512414947060-048d53abb081?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsZWF0aGVyJTIwd2FsbGV0fGVufDB8fHx8MTc1OTU2MzQwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "leather wallet"
+    },
+    {
+      "id": "item-laptop",
+      "description": "A lost laptop on a table.",
+      "imageUrl": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsb3N0JTIwbGFwdG9wfGVufDB8fHx8MTc1OTYwMDU3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "laptop"
+    },
+    {
+      "id": "item-notebook",
+      "description": "A spiral notebook left on a bench.",
+      "imageUrl": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bm90ZWJvb2t8ZW58MHx8fHwxNzU5NTI3NzYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "notebook"
+    },
+    {
+      "id": "item-bottle",
+      "description": "A stainless steel water bottle.",
+      "imageUrl": "https://images.unsplash.com/photo-1560847468-5eef330f455a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2F0ZXIlMjBib3R0bGV8ZW58MHx8fHwxNzU5NTYzNDA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water bottle"
+    },
+    {
+      "id": "item-headphones",
+      "description": "Wireless headphones on a desk.",
+      "imageUrl": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoZWFkcGhvbmVzfGVufDB8fHx8MTc1OTQ5NzQ4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "headphones"
+    },
+    {
+      "id": "item-id-card",
+      "description": "A student ID card.",
+      "imageUrl": "https://images.unsplash.com/photo-1633381664938-acd1bdf25770?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxJRCUyMGNhcmR8ZW58MHx8fHwxNzU5NTU3NzU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ID card"
+    },
+    {
+      "id": "item-ring",
+      "description": "A lost ring on the ground.",
+      "imageUrl": "https://images.unsplash.com/photo-1593455171738-232a4927b871?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "ring"
+    },
+    {
+      "id": "item-cash",
+      "description": "Some cash found on the floor.",
+      "imageUrl": "https://images.unsplash.com/photo-1579621970795-87facc2f976d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "money cash"
+    },
+    {
+      "id": "item-charger",
+      "description": "A laptop charger.",
+      "imageUrl": "https://images.unsplash.com/photo-1642984014111-993e64e63b43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsYXB0b3AlMjBjaGFyZ2VyfGVufDB8fHx8MTc1OTYwMDU3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "laptop charger"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "Avatar for a student.",
+      "imageUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTk1MDY2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "user-avatar-2",
+      "description": "Avatar for another student.",
+      "imageUrl": "https://images.unsplash.com/photo-1646369505413-216676fef89c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVkZW50JTIwZmFjZXxlbnwwfHx8fDE3NTk1MjQzMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student face"
+    },
+    {
+      "id": "campus-map",
+      "description": "A map of a college campus.",
+      "imageUrl": "https://images.unsplash.com/photo-1623921532169-159b7311740b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjYW1wdXMlMjBtYXB8ZW58MHx8fHwxNzU5NjAwNTcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "campus map"
+    }
+  ]
+}
