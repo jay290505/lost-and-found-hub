@@ -1,4 +1,4 @@
-# Firebase Studio
+# LOST AND FOUND HUB
 
 This is a NextJS starter in Firebase Studio.
 
